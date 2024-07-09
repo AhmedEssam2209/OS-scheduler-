@@ -28,7 +28,6 @@ Assumptions:
 
 <p align="center">
 Inputs and Outputs of processes into different algorithms: <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
 <img src="https://imgur.com/tK0BpFf.png" height="80%" width="80%" alt=""/>
 <img src="https://imgur.com/ZjnewWQ.png" height="80%" width="80%" alt=""/>
 <img src="https://imgur.com/gDqAPFf.png" height="80%" width="80%" alt=""/>
