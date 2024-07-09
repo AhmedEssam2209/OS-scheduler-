@@ -27,6 +27,11 @@ Assumptions:
 <h2>Screenshots :</h2>
 
 <p align="center">
+System Description: <br/>
+<img src="https://imgur.com/DdjAvID.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+
 Inputs and Outputs of processes into different algorithms: <br/>
 <img src="https://imgur.com/tK0BpFf.png" height="80%" width="80%" alt=""/>
 <img src="https://imgur.com/ZjnewWQ.png" height="80%" width="80%" alt=""/>
@@ -35,6 +40,9 @@ Inputs and Outputs of processes into different algorithms: <br/>
 
 <br />
 <br />
+
+
+
 
 </p>
 
